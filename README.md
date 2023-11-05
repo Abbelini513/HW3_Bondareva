@@ -1,4 +1,4 @@
-Чтобы сравнить эффективность подходов, можно запустить следующий код:
+Чтобы сравнить эффективность подходов, можно запустить следующий код [ewds:
 ```python
 #Run benchmarking to score effectiveness of all algorithms
 print('Run benchmarking for random_predict: ', end='')
