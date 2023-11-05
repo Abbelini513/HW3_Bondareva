@@ -47,7 +47,9 @@ def game_core_v2(number: int = 1) -> int:
 
 
 def game_core_v3(number: int = 1) -> int:
-    """
+    """Находи случайно число методом деления отрезка пополам.
+       Функция принимает загаданное число и возвращает число попыток
+
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
 
