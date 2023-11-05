@@ -1,4 +1,9 @@
-Чтобы сравнить эффективность подходов, можно запустить следующий код [ewds:
+# Домашнее задание №3
+
+## Здравствуйте
+
+
+Чтобы сравнить эффективность подходов, можно запустить следующий код:
 ```python
 #Run benchmarking to score effectiveness of all algorithms
 print('Run benchmarking for random_predict: ', end='')
