@@ -1,7 +1,4 @@
-# Домашнее задание 3
-## Здравствуйте лоб
-
-Чтобы сравнить эффективность подходов, можно запустить следующий код:
+Чтобы сравнить эффективность подходов, можно запустить следующий код [ewds:
 ```python
 #Run benchmarking to score effectiveness of all algorithms
 print('Run benchmarking for random_predict: ', end='')
@@ -13,4 +10,3 @@ score_game(game_core_v2)
 print('Run benchmarking for game_core_v3: ', end='')
 score_game(game_core_v2)
 ```
-
