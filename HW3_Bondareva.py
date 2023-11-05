@@ -58,10 +58,11 @@ def game_core_v3(number: int = 1) -> int:
     """
     # Ваш код начинается здесь
     count = 0
+    # Устанавливаем концы отрезка
     a = 1
     b = 100
     predict = b
-
+    # Метод деления отрезка пополам
     while number != predict:
         count += 1
         if number > predict:
