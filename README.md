@@ -15,3 +15,4 @@ score_game(game_core_v2)
 print('Run benchmarking for game_core_v3: ', end='')
 score_game(game_core_v2)
 ```
+См в разделе ## Здравствуйте    
